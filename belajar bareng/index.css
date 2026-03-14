@@ -1,0 +1,21 @@
+body {
+    background-color: blue;
+    color: white;
+    
+}
+
+ul li {
+    list-style-type: none;
+    color: black;
+}
+
+#buton-id {
+    background-color: white;
+    color: black;
+
+}
+
+#buton-id:hover {
+    background-color: red;
+    color: white;
+}
